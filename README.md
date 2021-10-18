@@ -1,6 +1,6 @@
 # React Phylotree
 
-A resuable React component to build phylogenetic tree visualizations. Under development.
+A reusable React component to build phylogenetic tree visualizations and interactive widgets. Under development.
 
 ## Development
 
